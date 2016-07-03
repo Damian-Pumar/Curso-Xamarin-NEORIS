@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="TipCalc-UI-iOS/TipCalc-UI-iOS.csproj">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TipCalc-UI-iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.25766D27-4134-437F-96C0-9CE84F5818CA" />
+  <MonoDevelop.Ide.ItemProperties.MVVMCross-UI.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus 4 (KitKat)" />
+  <MonoDevelop.Ide.ItemProperties.TipCalc-UI-Android AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus 4 (KitKat)" />
+  <MonoDevelop.Ide.ItemProperties.MVVMCross-UI-IOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.25766D27-4134-437F-96C0-9CE84F5818CA" />
+</Properties>

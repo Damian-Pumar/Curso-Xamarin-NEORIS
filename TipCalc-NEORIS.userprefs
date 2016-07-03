@@ -1,0 +1,9 @@
+﻿<Properties StartupItem="MVVMCross.UI.IOS/MVVMCross.UI.IOS.csproj">
+  <MonoDevelop.Ide.ItemProperties.MVVMCross.MVVMCross.UI.IOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.25766D27-4134-437F-96C0-9CE84F5818CA" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
